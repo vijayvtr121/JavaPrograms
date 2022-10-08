@@ -1,6 +1,6 @@
 package exception;
 
-public class Sample {
+public class StringBufferSample {
 
 	public static void main(String[] args)
 {
