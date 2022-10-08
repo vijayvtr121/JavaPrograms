@@ -44,7 +44,7 @@ public class Threads1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         Demo d = new Demo();
+         ThreadsDemo d = new ThreadsDemo();
          Thread t1 = new Thread(d);
          t1.start();
          Sample s = new Sample();
