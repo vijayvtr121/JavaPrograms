@@ -1,6 +1,6 @@
 package threads;
 
-class Demo extends Thread
+class ThreadsDemo extends Thread
 {
 	public void run()
 	 {
